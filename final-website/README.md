@@ -1,2 +1,2 @@
-## Shopeasy-daiict
+## FlipBlitz Fashion Intelligence System
 
