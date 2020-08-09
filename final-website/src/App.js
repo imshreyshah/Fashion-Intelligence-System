@@ -340,12 +340,12 @@ class App extends Component {
                   {
                     dataField: "Forecast_trend",
                     sortBy: "desc",
-                    label: "Sort by Forcast leading trend \u00A0",
+                    label: "Sort by Future leading trend \u00A0",
                   },
                   {
                     dataField: "Forecast_trend",
                     sortBy: "asc",
-                    label: "Sort by Forecast lagging trend\u00A0 \u00A0",
+                    label: "Sort by Future lagging trend\u00A0 \u00A0",
                   },
                 ]}
                 innerClass={{
