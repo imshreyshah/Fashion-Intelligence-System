@@ -17,3 +17,10 @@ For the same product vertical, identify the upcoming fashion trends from online 
 The solution should be scalable
 ○ The solution should be replicable to include different websites
 ○ The solution should be replicable across multiple product categories
+
+Backend folder has complete code related to google trend extaction and forecasting.
+blog_score has complete code related to blog extraction and blog scores.
+dataset folder has all the preprocessing files.
+final-wesite is for the website.
+
+For more refer to the Documentation.
