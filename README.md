@@ -8,4 +8,6 @@ blog_score has complete code related to blog extraction and blog scores.
 dataset folder has all the preprocessing files.
 final-wesite is for the website.
 
+*Here is a design vision of the website build on InVision Studios:*
+https://pratyushgoel102666.invisionapp.com/freehand/Fashion-website-SNxqylJli
 For more refer to the Documentation.
