@@ -1,5 +1,4 @@
-# FIS
-Fashion Intelligence System (https://fashion-intelligence-system.web.app/)
+# Fashion Intelligence System (https://fashion-intelligence-system.web.app/)
 
 To help fashion retailers predict the current and upcoming fashion trends and customize their portfolio.
 
