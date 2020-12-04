@@ -1,6 +1,8 @@
-# Fashion Intelligence System (https://fashion-intelligence-system.web.app/)
+# Fashion Intelligence System
 
-To help fashion retailers predict the current and upcoming fashion trends and customize their portfolio.
+To help fashion retailers predict the current and upcoming fashion trends and customize their portfolio. 
+
+We devised our own algorithm to quantify trend using the fashion attributes. We alloted the current trend score from using keyword search volume extracted from google trends. The forecasting was done using SARIMA model. 
 
 **Here is a design vision of the website build on InVision Studios:**
 
